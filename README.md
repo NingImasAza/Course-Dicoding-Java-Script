@@ -1,1 +1,1 @@
-# Course-Dicoding-Java-Script
+# Belajar Dasar Pemrograman JavaScript
